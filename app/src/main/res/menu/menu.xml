@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardView="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        cardView:showAsAction="never|collapseActionView"/>
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"
+        cardView:showAsAction="never|collapseActionView" />
+    <item
+        android:id="@+id/feed"
+        android:title="Feedback"
+        cardView:showAsAction="never|collapseActionView" />
+</menu>

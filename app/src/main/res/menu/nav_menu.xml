@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/tutsGroup">
+        <item
+            android:id="@+id/tutorials"
+            android:title="TUTORIALS">
+            <menu android:title="HTML and CSS">
+                <item android:title="Learn HTML" android:id="@+id/learn_html" android:visible="false" />
+                <item android:title="Learn CSS" android:id="@+id/learn_css" android:visible="false" />
+                <item android:title="Learn Bootstrap" android:id="@+id/learn_bs" android:visible="false" />
+                <item android:title="Learn W3.CSS" android:id="@+id/learn_wc" android:visible="false" />
+                <item android:title="Learn Colors" android:id="@+id/learn_colors" android:visible="false" />
+                <item android:title="Learn Icons" android:id="@+id/learn_icons" android:visible="false" />
+                <item android:title="Learn Graphics" android:id="@+id/learn_graphics" android:visible="false" />
+                <item android:title="Learn SVG" android:id="@+id/learn_svg" android:visible="false" />
+                <item android:title="Learn Canvas" android:id="@+id/learn_canvas" android:visible="false" />
+                <item android:title="Learn How To" android:id="@+id/learn_howTo" android:visible="false" />
+                <item android:title="Learn Sass" android:id="@+id/learn_sass" android:visible="false" />
+            </menu>
+        </item>
+    </group>
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/refersGroup">>
+        <item
+            android:id="@+id/references"
+            android:title="REFERENCES" />
+    </group>
+</menu>

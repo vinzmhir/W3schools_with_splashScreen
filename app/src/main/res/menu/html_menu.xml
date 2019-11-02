@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hintro"
+        android:title="HTML Introduction" />
+    <item
+        android:id="@+id/hedit"
+        android:title="HTML Editors" />
+    <item
+        android:id="@+id/hbasic"
+        android:title="HTML Basic" />
+    <item
+        android:id="@+id/helements"
+        android:title="HTML Elements" />
+    <item
+        android:id="@+id/hattrib"
+        android:title="HTML Attributes" />
+    <item
+        android:id="@+id/hheading"
+        android:title="HTML Headings" />
+    <item
+        android:id="@+id/hpara"
+        android:title="HTML Paragraphs" />
+    <item
+        android:id="@+id/hstyles"
+        android:title="HTML Styles" />
+    <item
+        android:id="@+id/hformat"
+        android:title="HTML Formatting" />
+    <item
+        android:id="@+id/hquot"
+        android:title="HTML Quotations" />
+    <item
+        android:id="@+id/hcomm"
+        android:title="HTML Comments" />
+    <item
+        android:id="@+id/hcolors"
+        android:title="HTML Colors" />
+    <item
+        android:id="@+id/hcss"
+        android:title="HTML CSS" />
+    <item
+        android:id="@+id/hlinks"
+        android:title="HTML Links" />
+    <item
+        android:id="@+id/himage"
+        android:title="HTML Images" />
+    <item
+        android:id="@+id/htables"
+        android:title="HTML Tables" />
+    <item
+        android:id="@+id/hlist"
+        android:title="HTML Lists" />
+    <item
+        android:id="@+id/hblocks"
+        android:title="HTML Blocks" />
+    <item
+        android:id="@+id/hclass"
+        android:title="HTML Classes" />
+    <item
+        android:id="@+id/hid"
+        android:title="HTML Id" />
+    <item
+        android:id="@+id/hiframes"
+        android:title="HTML Iframes" />
+    <item
+        android:id="@+id/hjs"
+        android:title="HTML Javascript" />
+    <item
+        android:id="@+id/hfile"
+        android:title="HTML File Paths" />
+    <item
+        android:id="@+id/hhead"
+        android:title="HTML Head" />
+    <item
+        android:id="@+id/hlayout"
+        android:title="HTML Layout" />
+    <item
+        android:id="@+id/hresponse"
+        android:title="HTML Responsive" />
+    <item
+        android:id="@+id/hcompcode"
+        android:title="HTML Computer Code" />
+    <item
+        android:id="@+id/hentities"
+        android:title="HTML Entities" />
+    <item
+        android:id="@+id/hsymb"
+        android:title="HTML Symbols" />
+    <item
+        android:id="@+id/hcharset"
+        android:title="HTML Charset" />
+    <item
+        android:id="@+id/hurl"
+        android:title="HTML URL Encode" />
+    <item
+        android:id="@+id/hxhtml"
+        android:title="HTML XHTML" />
+</menu>
